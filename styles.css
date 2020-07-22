@@ -1,0 +1,17 @@
+.container {
+  max-width: 600px;
+}
+.btn {
+  background: #43d9be;
+  color: white;
+}
+.updateButton {
+  width: 80px;
+}
+.username {
+  font-weight: bold;
+}
+.time {
+  font-size: 0.8em;
+  color: #999;
+}
